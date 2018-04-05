@@ -9,3 +9,5 @@ clang++ -std=c++17 filename
 cd cern_root/root-612-build
 source bin/thisroot.sh
 root
+
+ssh pvelliengiri@rostam.cct.lsu.edu -p 8000 -i/home/praveen/.ssh/id_rostam
