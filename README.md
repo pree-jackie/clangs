@@ -20,6 +20,7 @@ link command :
 
 cmake --build . -- -j3
 
+make install (which I did after one day)
 
 llvm is installed in /home/praveen/live/install
 
